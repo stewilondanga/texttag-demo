@@ -40,7 +40,7 @@ p {
   font-family: "Inconsolata", monospace;
 }
 
-/*#console {
+#console {
   background: none;
   border: 0;
   resize: none;
@@ -51,7 +51,7 @@ p {
   font-size: 22px;
 }
 
-label {
+/*label {
   width: calc(100%/3 - 3.5px);
   display: inline-block;
   font-size: 26px;

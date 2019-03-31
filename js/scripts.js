@@ -46,8 +46,8 @@ function s() {
     (e[3].checked ? "</blockquote>" : "") +
     (e[2].checked ? "</b>" : "") +
     (e[1].checked ? "</abbr>" : "") +
-  /*          (e[0].checked ? "</a>" : "");
-        document.getElementById("console").innerHTML = document.getElementById(
+    (e[0].checked ? "</a>" : "");
+  /*      document.getElementById("console").innerHTML = document.getElementById(
             "demo"
         ).innerHTML;
     }

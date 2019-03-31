@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Inconsolata:400,700|Montserrat");
 /*body {
   text-align: center;
   font-family: courier;
@@ -22,7 +23,6 @@
   height: 1.5em;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Inconsolata:400,700|Montserrat");
 * {
   margin: 0;
   padding: 0;

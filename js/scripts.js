@@ -35,8 +35,8 @@ function s() {
     (e[14].checked ? "</small>" : "") +
     (e[13].checked ? "</samp>" : "") +
     (e[12].checked ? "</s>" : "") +
-  /*          (e[11].checked ? "</pre>" : "") +
-            (e[10].checked ? "</mark>" : "") +
+    (e[11].checked ? "</pre>" : "") +
+  /*          (e[10].checked ? "</mark>" : "") +
             (e[9].checked ? "</i>" : "") +
             (e[8].checked ? "</h1>" : "") +
             (e[7].checked ? "</em>" : "") +

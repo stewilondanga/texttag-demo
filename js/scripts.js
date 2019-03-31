@@ -14,8 +14,8 @@ function s() {
     (e[1].checked ? '<abbr title="Demonstration">' : "") +
     (e[2].checked ? "<b>" : "") +
     (e[3].checked ? '<blockquote cite="">' : "") +
-  /*  (e[4].checked ? "<code>" : "") +
-    (e[5].checked ? "<del>" : "") +
+    (e[4].checked ? "<code>" : "") +
+  /*  (e[5].checked ? "<del>" : "") +
   /*          (e[6].checked ? "<ins>" : "") +
             (e[7].checked ? "<em>" : "") +
             (e[8].checked ? "<h1>" : "") +

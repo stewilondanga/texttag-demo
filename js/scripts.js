@@ -47,10 +47,10 @@ function s() {
     (e[2].checked ? "</b>" : "") +
     (e[1].checked ? "</abbr>" : "") +
     (e[0].checked ? "</a>" : "");
-  /*      document.getElementById("console").innerHTML = document.getElementById(
-            "demo"
-        ).innerHTML;
-    }
+  document.getElementById("console").innerHTML = document.getElementById(
+    "demo"
+  ).innerHTML;
+}
 
 
-    s()
+/*  s()

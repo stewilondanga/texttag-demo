@@ -17,8 +17,8 @@ function s() {
     (e[4].checked ? "<code>" : "") +
     (e[5].checked ? "<del>" : "") +
     (e[6].checked ? "<ins>" : "") +
-  /*          (e[7].checked ? "<em>" : "") +
-            (e[8].checked ? "<h1>" : "") +
+    (e[7].checked ? "<em>" : "") +
+  /*          (e[8].checked ? "<h1>" : "") +
             (e[9].checked ? "<i>" : "") +
             (e[10].checked ? "<mark>" : "") +
             (e[11].checked ? "<pre>" : "") +

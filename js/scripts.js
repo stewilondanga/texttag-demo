@@ -26,8 +26,8 @@ function s() {
     (e[13].checked ? "<samp>" : "") +
     (e[14].checked ? "<small>" : "") +
     (e[15].checked ? "<strong>" : "") +
-  /*          (e[16].checked ? "<sup>" : "") +
-            (e[17].checked ? "<sub>" : "") +
+    (e[16].checked ? "<sup>" : "") +
+  /*          (e[17].checked ? "<sub>" : "") +
             "Demo Text" +
             (e[17].checked ? "</sub>" : "") +
             (e[16].checked ? "</sup>" : "") +

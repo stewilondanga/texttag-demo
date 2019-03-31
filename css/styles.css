@@ -81,11 +81,11 @@ input[type="checkbox"]:checked {
   background: #E53935;
 }
 
-/*input[type="checkbox"]:focus {
+input[type="checkbox"]:focus {
   outline: none;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }

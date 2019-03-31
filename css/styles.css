@@ -36,11 +36,11 @@ p {
   font-size: 31px;
 }
 
-/*#console, label {
+#console, label {
   font-family: "Inconsolata", monospace;
 }
 
-#console {
+/*#console {
   background: none;
   border: 0;
   resize: none;

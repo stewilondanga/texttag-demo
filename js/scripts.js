@@ -44,8 +44,8 @@ function s() {
     (e[5].checked ? "</del>" : "") +
     (e[4].checked ? "</code>" : "") +
     (e[3].checked ? "</blockquote>" : "") +
-  /*          (e[2].checked ? "</b>" : "") +
-            (e[1].checked ? "</abbr>" : "") +
+    (e[2].checked ? "</b>" : "") +
+  /*          (e[1].checked ? "</abbr>" : "") +
             (e[0].checked ? "</a>" : "");
         document.getElementById("console").innerHTML = document.getElementById(
             "demo"

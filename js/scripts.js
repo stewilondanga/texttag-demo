@@ -41,8 +41,8 @@ function s() {
     (e[8].checked ? "</h1>" : "") +
     (e[7].checked ? "</em>" : "") +
     (e[6].checked ? "</ins>" : "") +
-  /*          (e[5].checked ? "</del>" : "") +
-            (e[4].checked ? "</code>" : "") +
+    (e[5].checked ? "</del>" : "") +
+  /*          (e[4].checked ? "</code>" : "") +
             (e[3].checked ? "</blockquote>" : "") +
             (e[2].checked ? "</b>" : "") +
             (e[1].checked ? "</abbr>" : "") +

@@ -57,7 +57,7 @@ label {
   font-size: 26px;
 }
 
-/*input {
+input {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -67,7 +67,7 @@ label {
   background: #E0E0E0;
 }
 
-input[type="checkbox"]:checked:before {
+/*input[type="checkbox"]:checked:before {
   content: "✔";
   position: absolute;
   top: -3px;

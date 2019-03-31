@@ -20,8 +20,8 @@ function s() {
     (e[7].checked ? "<em>" : "") +
     (e[8].checked ? "<h1>" : "") +
     (e[9].checked ? "<i>" : "") +
-  /*          (e[10].checked ? "<mark>" : "") +
-            (e[11].checked ? "<pre>" : "") +
+    (e[10].checked ? "<mark>" : "") +
+  /*          (e[11].checked ? "<pre>" : "") +
             (e[12].checked ? "<s>" : "") +
             (e[13].checked ? "<samp>" : "") +
             (e[14].checked ? "<small>" : "") +

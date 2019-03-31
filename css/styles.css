@@ -8,6 +8,13 @@
   position: relative;
 }
 
+body {
+  padding: 50px;
+  background: #1d1f20;
+  color: #cfd8dc;
+  line-height: 1.4;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -29,14 +36,6 @@
 
 .my_social a img {
   height: 1.5em;
-}
-
-
-body {
-  padding: 50px;
-  background: #1d1f20;
-  color: #cfd8dc;
-  line-height: 1.4;
 }
 
 p {

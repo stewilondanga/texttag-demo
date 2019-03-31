@@ -22,8 +22,8 @@ function s() {
     (e[9].checked ? "<i>" : "") +
     (e[10].checked ? "<mark>" : "") +
     (e[11].checked ? "<pre>" : "") +
-  /*          (e[12].checked ? "<s>" : "") +
-            (e[13].checked ? "<samp>" : "") +
+    (e[12].checked ? "<s>" : "") +
+  /*          (e[13].checked ? "<samp>" : "") +
             (e[14].checked ? "<small>" : "") +
             (e[15].checked ? "<strong>" : "") +
             (e[16].checked ? "<sup>" : "") +

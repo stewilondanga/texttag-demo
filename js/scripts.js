@@ -11,8 +11,8 @@ function s() {
   var e = document.getElementsByTagName("input");
   document.getElementById("demo").innerHTML =
     (e[0].checked ? '<a href="">' : "") +
-  /*  (e[1].checked ? '<abbr title="Demonstration">' : "") +
-    (e[2].checked ? "<b>" : "") +
+    (e[1].checked ? '<abbr title="Demonstration">' : "") +
+  /*  (e[2].checked ? "<b>" : "") +
     (e[3].checked ? '<blockquote cite="">' : "") +
     (e[4].checked ? "<code>" : "") +
     (e[5].checked ? "<del>" : "") +

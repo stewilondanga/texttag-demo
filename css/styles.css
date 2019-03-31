@@ -51,13 +51,13 @@ p {
   font-size: 22px;
 }
 
-/*label {
+label {
   width: calc(100%/3 - 3.5px);
   display: inline-block;
   font-size: 26px;
 }
 
-input {
+/*input {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;

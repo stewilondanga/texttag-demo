@@ -30,13 +30,13 @@ body {
   height: 1.5em;
 }
 
-/*p {
+p {
   font-family: Montserrat, sans-serif;
   margin-bottom: 35px;
   font-size: 31px;
 }
 
-#console, label {
+/*#console, label {
   font-family: "Inconsolata", monospace;
 }
 
